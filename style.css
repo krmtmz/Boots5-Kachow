@@ -2,3 +2,7 @@
     height: 300px;
     width: auto;
 } 
+
+.card img {
+    object-fit:contain;
+}
